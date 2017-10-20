@@ -7,7 +7,9 @@ Welcome to the website for fanging and defanging indicators of compromise. We're
 
 ## What is an Indicator of Compromise?
 
-// more coming soon...
+Indicators of compromise (IOCs) are “pieces of forensic data, such as data found in system log entries or files, that identify potentially malicious activity on a system or network.” Indicators of compromise aid information security and IT professionals in detecting data breaches, malware infections, or other threat activity. By monitoring for indicators of compromise, organizations can detect attacks and act quickly to prevent breaches from occurring or limit damages by stopping attacks in earlier stages.
+
+For more information, visit https://digitalguardian.com/blog/what-are-indicators-compromise
 
 ## What is "Fanging" and "Defanging"?
 
